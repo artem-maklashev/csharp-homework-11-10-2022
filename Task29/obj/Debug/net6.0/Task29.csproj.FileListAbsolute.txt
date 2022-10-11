@@ -1,0 +1,15 @@
+D:\YandexDisk\Обучение Python\Seminar C#\11.10.21\Task29\obj\Debug\net6.0\Task29.csproj.AssemblyReference.cache
+D:\YandexDisk\Обучение Python\Seminar C#\11.10.21\Task29\obj\Debug\net6.0\Task29.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\Обучение Python\Seminar C#\11.10.21\Task29\obj\Debug\net6.0\Task29.AssemblyInfoInputs.cache
+D:\YandexDisk\Обучение Python\Seminar C#\11.10.21\Task29\obj\Debug\net6.0\Task29.AssemblyInfo.cs
+D:\YandexDisk\Обучение Python\Seminar C#\11.10.21\Task29\obj\Debug\net6.0\Task29.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Обучение Python\Seminar C#\11.10.21\Task29\bin\Debug\net6.0\Task29.exe
+D:\YandexDisk\Обучение Python\Seminar C#\11.10.21\Task29\bin\Debug\net6.0\Task29.deps.json
+D:\YandexDisk\Обучение Python\Seminar C#\11.10.21\Task29\bin\Debug\net6.0\Task29.runtimeconfig.json
+D:\YandexDisk\Обучение Python\Seminar C#\11.10.21\Task29\bin\Debug\net6.0\Task29.dll
+D:\YandexDisk\Обучение Python\Seminar C#\11.10.21\Task29\bin\Debug\net6.0\Task29.pdb
+D:\YandexDisk\Обучение Python\Seminar C#\11.10.21\Task29\obj\Debug\net6.0\Task29.dll
+D:\YandexDisk\Обучение Python\Seminar C#\11.10.21\Task29\obj\Debug\net6.0\refint\Task29.dll
+D:\YandexDisk\Обучение Python\Seminar C#\11.10.21\Task29\obj\Debug\net6.0\Task29.pdb
+D:\YandexDisk\Обучение Python\Seminar C#\11.10.21\Task29\obj\Debug\net6.0\Task29.genruntimeconfig.cache
+D:\YandexDisk\Обучение Python\Seminar C#\11.10.21\Task29\obj\Debug\net6.0\ref\Task29.dll
